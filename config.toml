@@ -1,0 +1,9 @@
+addr = "127.0.0.1:8080"
+
+[repo.crates]
+type = "crates"
+#path = "/crates"
+#method = "redirect"
+#cache = "/var/tmp/rugistry"
+#storage = "s3://bucket/path"
+#upstream = "https://github.com/rust-lang/crates.io-index"
