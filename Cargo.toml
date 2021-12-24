@@ -1,0 +1,8 @@
+[package]
+name = "rugistry"
+version = "0.0.0"
+edition = "2021"
+description="Rusty registry for developers"
+license="Apache-2.0"
+
+[dependencies]
